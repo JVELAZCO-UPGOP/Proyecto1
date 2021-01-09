@@ -42,12 +42,14 @@
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
+            this.button4 = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // groupBox1
             // 
+            this.groupBox1.Controls.Add(this.button4);
             this.groupBox1.Controls.Add(this.button3);
             this.groupBox1.Controls.Add(this.button2);
             this.groupBox1.Controls.Add(this.button1);
@@ -99,7 +101,7 @@
             this.pictureBox1.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.pictureBox1.Location = new System.Drawing.Point(460, 21);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(247, 237);
+            this.pictureBox1.Size = new System.Drawing.Size(247, 188);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 9;
             this.pictureBox1.TabStop = false;
@@ -181,11 +183,20 @@
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(25, 9);
+            this.label5.Location = new System.Drawing.Point(560, 9);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(220, 17);
+            this.label5.Size = new System.Drawing.Size(187, 17);
             this.label5.TabIndex = 1;
-            this.label5.Text = "Ivan Eduardo Sanchez Rodriguez";
+            this.label5.Text = "Equipo: Desarrolladores Inc.";
+            // 
+            // button4
+            // 
+            this.button4.Location = new System.Drawing.Point(548, 215);
+            this.button4.Name = "button4";
+            this.button4.Size = new System.Drawing.Size(98, 43);
+            this.button4.TabIndex = 2;
+            this.button4.Text = "Cargar Foto";
+            this.button4.UseVisualStyleBackColor = true;
             // 
             // Form1
             // 
@@ -221,6 +232,7 @@
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.Button button4;
     }
 }
 
