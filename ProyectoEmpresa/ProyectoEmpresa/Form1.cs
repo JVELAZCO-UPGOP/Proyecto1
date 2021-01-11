@@ -16,5 +16,12 @@ namespace ProyectoEmpresa
         {
             InitializeComponent();
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            Productos P = new Productos();
+            P.Show();
+            this.Hide();
+        }
     }
 }

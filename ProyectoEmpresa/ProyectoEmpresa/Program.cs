@@ -16,7 +16,7 @@ namespace ProyectoEmpresa
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Productos());
+            Application.Run(new Form1());
         }
     }
 }
