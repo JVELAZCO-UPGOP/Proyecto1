@@ -12,3 +12,4 @@ C:\Users\Angel Velazco\Desktop\PROYECTO\ProyectoEmpresa\ProyectoEmpresa\obj\Debu
 C:\Users\Angel Velazco\Desktop\PROYECTO\ProyectoEmpresa\ProyectoEmpresa\obj\Debug\ProyectoEmpresa.Desarrollador1.resources
 C:\Users\Angel Velazco\Desktop\PROYECTO\ProyectoEmpresa\ProyectoEmpresa\obj\Debug\ProyectoEmpresa.Desarrollador2.resources
 C:\Users\Angel Velazco\Desktop\PROYECTO\ProyectoEmpresa\ProyectoEmpresa\obj\Debug\ProyectoEmpresa.Desarrollador3.resources
+C:\Users\Angel Velazco\Desktop\PROYECTO\ProyectoEmpresa\ProyectoEmpresa\obj\Debug\ProyectoEmpresa.Liliana.resources
